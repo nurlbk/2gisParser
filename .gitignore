@@ -1,0 +1,9 @@
+.idea/vcs.xml
+routes/__pycache__/
+models/__pycache__/
+config/__pycache__/
+
+__pycache__/
+.idea/
+chromedriver/
+venv/
