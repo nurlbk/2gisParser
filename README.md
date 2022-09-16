@@ -1,4 +1,4 @@
-# 2gisParser
-* FastApi
-* MongoDB
-* Selenium (Chrome)
+## 2gisParser
+* **FastApi**
+* **MongoDB**
+* **Selenium (Chrome)**
